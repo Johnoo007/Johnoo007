@@ -1,4 +1,4 @@
-<img align="left" src="https://pbs.twimg.com/media/GGot5WDbIAAL6gN?format=jpg&name=small">
+<img align="left" style="width: 250px; " src="https://pbs.twimg.com/media/GGot5WDbIAAL6gN?format=jpg&name=small">
 ### Hey!
 
 I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
