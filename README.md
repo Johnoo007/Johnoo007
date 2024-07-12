@@ -1,4 +1,4 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" src="https://x.com/Chalk11029969/status/1759269081549795683/photo/1">
 
 ### Hey!
 
