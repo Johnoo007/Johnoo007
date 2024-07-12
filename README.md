@@ -1,4 +1,4 @@
-<img align="left" style="width: 250px; " src="https://pbs.twimg.com/media/GGot5WDbIAAL6gN?format=jpg&name=small">
+<img align="left" style="display: block; width: 150px; height: auto; border-radius: 50%; object-fit: cover; object-position: center;" src="https://pbs.twimg.com/media/GGot5WDbIAAL6gN?format=jpg&name=small">
 ### Hey!
 
 I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
@@ -7,5 +7,6 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 <br>
 
-Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Ever since I joined GitHub **7** years ago, I pushed **25009** commits, opened **447** issues, submitted **1083** pull requests, received **17247** stars across **116** personal projects, and contributed to **198** public repositories.
 
+Here is a list of my **personal projects**:
