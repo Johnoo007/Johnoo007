@@ -2,7 +2,7 @@
 
 <img align="left" style="display: block; width: 180px; height: auto; border-radius: 50%; object-fit: cover; object-position: center;" src="https://pbs.twimg.com/media/GGot5WDbIAAL6gN?format=jpg&name=small">
 
-### Hey!
+### Welcome to my page!
 
 I'm **John**, a CPE/DE Freshman at SIIT, Thammasat University, Thailand. 
 
@@ -12,9 +12,11 @@ I'm **John**, a CPE/DE Freshman at SIIT, Thammasat University, Thailand.
 
 <br>
 
+<h3 align="left">About Me:</h3>
+
 &emsp;&emsp;&emsp;I'm **John**, a CPE/DE Freshman at Thammasat University(SIIT). I have a passion for coding and I'm a pet lover. My goal is to improve my English and programming skills. I don't know about my dream job at the moment but I want to keep moving forward and fulfill my happiness. Glad to meet you all.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <img width="10" />
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img width="10" />
@@ -29,6 +31,8 @@ I'm **John**, a CPE/DE Freshman at SIIT, Thammasat University, Thailand.
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Johnoo007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Johnoo007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
@@ -36,20 +40,20 @@ I'm **John**, a CPE/DE Freshman at SIIT, Thammasat University, Thailand.
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Johnoo007/count.svg?"  />
-</div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Johnoo007/Johnoo007/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 <!--  
 
 //comment
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Johnoo007/count.svg?"  />
+</div>
+
+###
 
 [![Instagram](https://img.shields.io/badge/Instagram-blue?style=social&logo=instagram)](https://www.instagram.com/Wongprasittigul/)
 
