@@ -1,4 +1,6 @@
-//<img align="right" src="https://komarev.com/ghpvc/?username=Johnoo007&color=ff69b4"><br>
+###
+<img align="right" src="https://komarev.com/ghpvc/?username=Johnoo007&color=ff69b4"><br>
+###
 
 <img align="left" style="display: block; width: 180px; height: auto; border-radius: 50%; object-fit: cover; object-position: center;" src="https://pbs.twimg.com/media/GGot5WDbIAAL6gN?format=jpg&name=small">
 
