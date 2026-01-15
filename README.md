@@ -6,7 +6,9 @@
 
 I'm **John**, a 2nd-year Computer Engineering at SIIT, Thammasat University, Thailand. 
 
-<p> <a href="https://www.instagram.com/wongprasittigul" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e1306c?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<p> <a href="https://www.linkedin.com/in/john-wongprasittigul/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
     <a href = "mailto:psuwit.john.won@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
