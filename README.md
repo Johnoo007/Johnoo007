@@ -35,10 +35,14 @@ I'm **John**, a 2nd-year Computer Engineering at SIIT, Thammasat University, Tha
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johnoo007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Johnoo007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="130" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/Johnoo007">
+    <img src="https://github-readme-stats.vercel.app/api?username=Johnoo007&show_icons=true&locale=en&theme=rose_pine&hide_border=false" height="160" alt="Johnoo007's Stats" />
+  </a>
+  <a href="https://github.com/Johnoo007">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Johnoo007&layout=compact&langs_count=6&theme=rose_pine&hide_border=false" height="160" alt="Johnoo007's Top Langs" />
+  </a>
+</p>
 
 ###
 
