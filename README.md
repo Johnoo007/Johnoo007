@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 
-I'm **John**, a CPE/DE Freshman at SIIT, Thammasat University, Thailand. 
+I'm **John**, a 2nd-year Computer Engineering at SIIT, Thammasat University, Thailand. 
 
 <p> <a href="https://www.instagram.com/wongprasittigul" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e1306c?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
     <a href = "mailto:psuwit.john.won@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -14,7 +14,7 @@ I'm **John**, a CPE/DE Freshman at SIIT, Thammasat University, Thailand.
 
 <h3 align="left">About Me:</h3>
 
-&emsp;&emsp;&emsp;I'm **John**, a CPE/DE Freshman at Thammasat University(SIIT). I have a passion for coding and I'm a pet lover. My goal is to improve my English and programming skills. I don't know about my dream job at the moment but I want to keep moving forward and fulfill my happiness. Glad to meet you all.
+&emsp;&emsp;&emsp;I'm John, a 2nd-year Computer Engineering student at SIIT, Thammasat University. I am an aspiring **Software Engineer** with a strong passion for Full-Stack Development, Algorithms (ICPC/TOI), and AI/Machine Learning. My goal is to build scalable software and integrate intelligent solutions to solve real-world problems. Always ready to learn and grow!
 
 <h3 align="left">Languages and Tools:</h3><br>
 <p align="left"> 
